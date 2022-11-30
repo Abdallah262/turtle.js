@@ -1,3 +1,4 @@
+// get a handle for the canvases in the document
 var imageCanvas = document.querySelector('#imagecanvas');
 var imageContext = imageCanvas.getContext('2d');
 
